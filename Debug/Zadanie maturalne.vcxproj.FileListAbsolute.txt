@@ -1,0 +1,3 @@
+C:\Users\Admin\Desktop\Programowanie\Programy+strony\C++\Zadanie maturalne\Zadanie maturalne\Debug\Zadanie maturalne.vcxprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Programowanie\Programy+strony\C++\Zadanie maturalne\Zadanie maturalne\Debug\Zadaniematuralne.MyForm.resources
+C:\Users\Admin\Desktop\Programowanie\Programy+strony\C++\Zadanie maturalne\Zadanie maturalne\Debug\Zadanie maturalne.vcxproj.GenerateResource.cache
