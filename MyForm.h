@@ -1,6 +1,6 @@
 #pragma once
 #include <msclr/marshal_cppstd.h>
-#include "ród³o.cpp"
+#include "Å¹rÃ³dÅ‚o.cpp"
 
 namespace Zadaniematuralne {
 
@@ -28,7 +28,7 @@ namespace Zadaniematuralne {
 
 	protected:
 		/// <summary>
-		/// Wyczyœæ wszystkie u¿ywane zasoby.
+		/// WyczyÅ“Ã¦ wszystkie uÂ¿ywane zasoby.
 		/// </summary>
 		~MyForm()
 		{
@@ -50,8 +50,8 @@ namespace Zadaniematuralne {
 
 #pragma region Windows Form Designer generated code
 		/// <summary>
-		/// Metoda wymagana do obs³ugi projektanta — nie nale¿y modyfikowaæ
-		/// jej zawartoœci w edytorze kodu.
+		/// Metoda wymagana do obsÂ³ugi projektanta â€” nie naleÂ¿y modyfikowaÃ¦
+		/// jej zawartoÅ“ci w edytorze kodu.
 		/// </summary>
 		void InitializeComponent(void)
 		{
@@ -98,7 +98,7 @@ namespace Zadaniematuralne {
 			this->Name = L"MyForm";
 			this->ShowIcon = false;
 			this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;
-			this->Text = L"Ci¹gi Arytmetyczne -zad.61.1";
+			this->Text = L"CiÂ¹gi Arytmetyczne -zad.61.1";
 			this->ResumeLayout(false);
 			this->PerformLayout();
 
